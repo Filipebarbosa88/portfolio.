@@ -7,6 +7,6 @@ export const profile = {
   email: 'filipedealmeidabarbosa@gmail.com',
   github: 'https://github.com/Filipebarbosa88',
   linkedin: 'https://www.linkedin.com/in/filipe-barbosa-a591b2141/',
-  whatsapp: '5519999136145', // Formato internacional, somente números. Ex.: 55 + DDD + número.
-  siteUrl: 'https://filipedev.netlify.app','', // Domínio definitivo, com https:// e sem barra final.
+   whatsapp: '5519999136145',
+  siteUrl: 'https://filipedev.netlify.app',
 };
