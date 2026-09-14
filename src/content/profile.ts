@@ -8,5 +8,5 @@ export const profile = {
   github: 'https://github.com/Filipebarbosa88',
   linkedin: 'https://www.linkedin.com/in/filipe-barbosa-a591b2141/',
   whatsapp: '5519999136145', // Formato internacional, somente números. Ex.: 55 + DDD + número.
-  siteUrl: '', // Domínio definitivo, com https:// e sem barra final.
+  siteUrl: 'https://filipedev.netlify.app','', // Domínio definitivo, com https:// e sem barra final.
 };
